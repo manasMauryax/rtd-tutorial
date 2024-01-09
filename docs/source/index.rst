@@ -12,10 +12,8 @@ Welcome to LLMgym's documentation!
 
    This project is under active development.
 
-Contents
---------
-
 .. toctree::
+   :caption: Getting Started
 
    quickstart
    configuration

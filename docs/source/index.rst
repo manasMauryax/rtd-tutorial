@@ -1,7 +1,7 @@
 Welcome to LLMgym's documentation!
 ===================================
 
-**EDIT docs/source/index.rst in order to make changes here**
+**EDIT "docs/source/index.rst" IN ORDER TO MAKE CHANGES HERE**
 
 <TODO: Add abstract --> still needed: USPs, key features; include FSDP here;>
 

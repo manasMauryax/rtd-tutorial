@@ -1,3 +1,6 @@
+VSCode Setup
+===========
+
 **EDIT "docs/source/vs_code_setup.rst" IN ORDER TO MAKE CHANGES HERE**
 
 In VSCode, add this to your :file:`launch.json`:

@@ -20,7 +20,6 @@ Welcome to LLMgym's documentation!
    model_cards
    benchmarking
    known_issues
-   future_work
 
 .. toctree::
    :caption: Datasets
@@ -36,5 +35,11 @@ Welcome to LLMgym's documentation!
    :caption: VSCode Setup
 
    vs_code_setup
+
+
+.. toctree::
+   :caption: Future Work
+
+   future_work
 
 

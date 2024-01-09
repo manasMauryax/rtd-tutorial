@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'LLMGym'
+copyright = '2023, Fraunhofer'
+author = 'Max Lübbering'
 
 release = '0.1'
 version = '0.1.0'

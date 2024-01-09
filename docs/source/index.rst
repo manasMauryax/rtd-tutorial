@@ -1,13 +1,11 @@
-Welcome to Lumache's documentation!
+Welcome to LLMgym's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+<TODO: Add abstract --> still needed: USPs, key features; include FSDP here;>
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+<TODO: CAN ADD LINKS TO SPECIFIC THINGS USERS CAN EXPLORE (look at the index.rst file for an example)>
+##Check out the :doc:`usage` section for further information, including
+##how to :ref:`installation` the project.
 
 .. note::
 
@@ -18,5 +16,9 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   quickstart
+   configuration
+   model_cards
+   benchmarking
+   known_issues
+   future_work

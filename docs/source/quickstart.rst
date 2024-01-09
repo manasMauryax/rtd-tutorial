@@ -1,7 +1,7 @@
 Quickstart
 ==========
 
-**EDIT docs/source/index.rst in order to make changes here**
+**EDIT docs/source/quickstart.rst in order to make changes here**
 
 Installation
 -----------

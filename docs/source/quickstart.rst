@@ -1,6 +1,8 @@
 Quickstart
 ==========
 
+**EDIT docs/source/index.rst in order to make changes here**
+
 Installation
 -----------
 Setup a conda environment `conda create -n llm_gym python=3.10 & conda activate llm_gym` and install the requirements `pip install -e .`.

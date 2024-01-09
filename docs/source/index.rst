@@ -18,3 +18,8 @@ Contents
 .. toctree::
 
    quickstart
+   configuration
+   model_cards
+   benchmarking
+   known_issues
+   future_work

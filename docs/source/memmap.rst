@@ -7,7 +7,7 @@
 MemMap Datasets
 ==============
 
-**EDIT "docs/source/configuration.rst" IN ORDER TO MAKE CHANGES HERE**
+**EDIT "docs/source/memmap.rst" IN ORDER TO MAKE CHANGES HERE**
 
 MemMapDataset Index Generator
 -------------

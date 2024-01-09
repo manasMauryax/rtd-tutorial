@@ -21,3 +21,20 @@ Welcome to LLMgym's documentation!
    benchmarking
    known_issues
    future_work
+
+.. toctree::
+   :caption: Datasets
+
+   memmap
+
+.. toctree::
+   :caption: Entrypoints
+
+   entrypoints
+
+.. toctree::
+   :caption: VSCode Setup
+
+   vs_code_setup
+
+

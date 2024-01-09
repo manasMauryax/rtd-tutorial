@@ -4,6 +4,8 @@
 .. role:: bash(code)
    :language: bash
 
+**EDIT "docs/source/configuration.rst" IN ORDER TO MAKE CHANGES HERE**
+
 We use `click <https://click.palletsprojects.com/en/>`_ as a tool to add new entry points and their CLI arguments.
 For this we have a main entry point from which all other entry points are started. 
 
